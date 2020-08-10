@@ -1,11 +1,11 @@
-#Birdies
+# Birdies
 This project is based on the P5 boids project and adds a dynamic layer with django.
 
-##Getting Started
+## Getting Started
 The following guide will help you setup the project on your local (linux) machine for testing.
 There is a db.sqlite3 that already has data in it to make life easier for you.
 
-###Prerequisites
+### Prerequisites
 **Python 3.7 and dev packages**
 ```bash
 $ sudo apt install python3.7 python3-dev
